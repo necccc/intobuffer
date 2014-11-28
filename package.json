@@ -1,6 +1,6 @@
 {
   "name": "intobuffer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Puts a decimal number to a fixed length Buffer object",
   "main": "index.js",
   "directories": {
