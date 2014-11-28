@@ -1,0 +1,33 @@
+{
+  "name": "intobuffer",
+  "version": "0.1.1",
+  "description": "Puts a decimal number to a fixed length Buffer object",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "grunt-release": "latest",
+    "grunt": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/necccc/intobuffer.git"
+  },
+  "keywords": [
+    "binary",
+    "buffer",
+    "integer",
+    "convert",
+    "simple"
+  ],
+  "author": "nec@shell8.net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/necccc/intobuffer/issues"
+  },
+  "homepage": "https://github.com/necccc/intobuffer"
+}
