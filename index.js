@@ -36,7 +36,7 @@ function intToBuffer (number, byteLength) {
 
 		byteLength = (hexString.length + hexString.length % 2) / 2;
 
-	} else if (hexString.length > byteLength) {
+	} else if (hexString.length > byteLength * 2) {
 
 		hexString = fillString('f', byteLength * 2)
 
